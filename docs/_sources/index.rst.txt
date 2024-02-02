@@ -8,8 +8,13 @@ Welcome to Sphinx-Test's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
+   ./chap1
+   ./chap2
+   ./chap3
+   ./chap4
 
 
 Indices and tables
